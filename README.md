@@ -36,3 +36,11 @@ Key Features and Components:
 By completing this project, you'll not only develop a functional emotion detection system but also gain valuable experience in utilizing Intel's oneAPI toolkit for optimizing deep learning models and creating high-performance applications. This system could find applications in areas like market research, user experience evaluation, mental health support, and more.
 
 For the dataset we are using the face emotion recognition dataset from kaggle : https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
+
+# oneAPI libraries used
+
+intel-tensorflow
+
+intel-numpy
+
+opencv-python-headless
